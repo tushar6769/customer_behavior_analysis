@@ -37,6 +37,7 @@ Reporting & Presentation
 
 Microsoft PowerPoint
 Gamma AI (for presentation creation)
+https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-9697m457kqawbuy
 
 
 Project Workflow
